@@ -1,0 +1,8 @@
+.post{
+    width: 500px;
+    border: 1px solid black;
+    text-align: left; 
+    float:left;
+    height:400px; 
+    padding:20px;
+}
